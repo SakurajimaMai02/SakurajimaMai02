@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakurajimamai02&repo=piano-scores&theme=maroongold" />
 </a>
 <a href="https://github.com/sakurajimamai02/sakurajimamai02.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakurajimamai02&repo=sakurajimamai02.github.io&theme=maroongold" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sakurajimamai02&repo=sakurajimamai02.github.io&theme=maroongold" />
 </a>
 
 ## *My Stats:*
