@@ -18,6 +18,8 @@
 <a href="https://twitter.com">
   <img align="right" alt="SakurajimaMai02 | Twitter" width="21px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/twitter.svg" />
 </a>
+<a href="https://bilibili.com"><img align="right" alt="SakurajimaMai02 | Bilibili" width="20px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/bili-icon.svg" />
+</a>
 <!---
 ＼＼\\٩( 'ω' )و //／／
 --->
