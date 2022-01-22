@@ -14,6 +14,10 @@
 
 ### 
 <a href="https://github.com/SakurajimaMai02?tab=stars"><img align="center" src="https://metrics.lecoq.io/SakurajimaMai02?template=classic&isocalendar=1&languages=1&stars=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FShanghai" alt="SakurajimaMai02's github stats" /></a>
+
+<a href="https://twitter.com">
+  <img align="right" alt="SakurajimaMai02 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 <!---
 ＼＼\\٩( 'ω' )و //／／
 --->
