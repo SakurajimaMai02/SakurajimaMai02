@@ -19,6 +19,8 @@
 </a>
 <a href="https://space.bilibili.com/1667002275"><img align="right" alt="SakurajimaMai02 | Bilibili" width="21px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/bili-icon.svg" />
 </a>
+<a href="https://music.163.com/#/user/home?id=398680519"><img align="right" alt="SakurajimaMai02 | Netease-Cloud-Music" width="21px" src="" />
+</a>
 <!---
 ＼＼\\٩( 'ω' )و //／／
 --->
