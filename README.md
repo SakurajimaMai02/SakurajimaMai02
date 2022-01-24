@@ -1,6 +1,6 @@
 #  Hey!Here is Promanikovsky!👋
 
-![MoeLoli](https://count.getloli.com/get/@:sakurajimamai02?theme=gelbooru-h")
+![MoeLoli](https://count.getloli.com/get/@:sakurajimamai02?theme=moebooru-h")
 
 ## *My Repositories:*
 <a href="https://github.com/sakurajimamai02/piano-scores">
