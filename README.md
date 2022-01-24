@@ -16,7 +16,7 @@
 ### 
 <a href="https://github.com/SakurajimaMai02?tab=stars"><img align="center" src="https://metrics.lecoq.io/SakurajimaMai02?template=new&isocalendar=1&languages=1&stars=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.recent.load=300&languages.recent.days=144&stars.limit=2&config.timezone=Asia%2FShanghai" alt="SakurajimaMai02's github stats" /></a>
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/ZeroTwo705">
   <img align="right" alt="SakurajimaMai02 | Twitter" width="22px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/twitter.svg" />
 </a>
 <a href="https://space.bilibili.com/1667002275"><img align="right" alt="SakurajimaMai02 | Bilibili" width="21px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/bili-icon.svg" />
